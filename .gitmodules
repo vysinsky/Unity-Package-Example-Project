@@ -1,0 +1,3 @@
+[submodule "Packages/cz.vysinsky.unity.example-package"]
+	path = Packages/cz.vysinsky.unity.example-package
+	url = git@github.com:vysinsky/Unity-Example-Package.git
