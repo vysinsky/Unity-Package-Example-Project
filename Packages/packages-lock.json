@@ -80,6 +80,12 @@
         "com.unity.modules.imgui": "1.0.0"
       }
     },
+    "cz.vysinsky.unity.example-package": {
+      "version": "file:cz.vysinsky.unity.example-package",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
